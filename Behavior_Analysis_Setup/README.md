@@ -1,5 +1,5 @@
 The files here are the code used to setup and execute the analysis of
-behavior data collected.
+behavior data collected. Some queries use subqueries.
 
 There are 4 possible levels or tiers someone could be on depending on the
 behaviors and points earned. These levels are: 1 for new or worsening cases,
